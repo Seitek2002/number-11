@@ -38,3 +38,9 @@
 .header__search{
     padding-left: 70px;
 }
+.header__lang{
+    padding-left: 70px;
+}
+.globe__img{
+    vertical-align: middle;
+}
