@@ -1,0 +1,19 @@
+.blue-line{
+    background-color: #2378FC;
+    color: white;
+    padding: 75px 0;
+}
+.blue__title{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.blue__content{
+    justify-content: space-between;
+}
+.blue__list{
+    margin-top: 15px;
+}
+.blue__link{
+    color: white;
+    font-size: 16px;
+}
