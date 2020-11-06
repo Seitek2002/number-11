@@ -13,6 +13,7 @@
 }
 .bottom__suptitle{
     font-size: 24px;
+    padding: 30px 0 25px 0;
 }
 .bottom__btn{
     color: white;
@@ -25,7 +26,16 @@
     max-width: 255px;
     font-size: 21px;
 }
+.bottom__arrow{
+    transition: 0.3s;
+    vertical-align: middle;
+}
+.bottom__btn:hover .bottom__arrow{
+    margin-left: 10px;
+}
+.bottom__box:hover .bottom__arrow{
+    margin-left: 10px;
+}
 .bottom__link{
     color: white;
-    margin-top: 25px;
 }
