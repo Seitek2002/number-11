@@ -8,12 +8,34 @@
 .events__sector{
     justify-content: space-between;
 }
+.events__box{
+    max-width: 350px;
+    margin-top: 40px;
+}
+.events__img{
+    width: 100%;
+}
 .events__title{
     font-size: 30px;
 }
+.events__data{
+    color: #2E373B;
+    font-size: 14px;
+    margin-top: 20px;
+}
 .events__all{
     color: black;
-    color: 21px;
+    font-size: 21px;
+}
+.events__discription{
+    color: #2E373B;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.events__name{
+    color: #F6404F;
+    font-size: 21px;
+    margin-top: 10px;
 }
 .events__arrow{
     fill: black;
