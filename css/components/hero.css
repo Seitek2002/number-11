@@ -5,5 +5,27 @@
     align-items: flex-end;
 }
 .hero__bottom{
-    
+    justify-content: space-between;
+}
+.bottom__sector{
+    max-width: 540px;
+    justify-content: space-between;
+}
+.bottom__suptitle{
+    font-size: 24px;
+}
+.bottom__btn{
+    color: white;
+    font-size: 16px;
+}
+.bottom__box{
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    max-width: 255px;
+    font-size: 21px;
+}
+.bottom__link{
+    color: white;
+    margin-top: 25px;
 }
