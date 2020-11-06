@@ -1,12 +1,23 @@
 .big-bg{
     background: url(../../img/bgc.png) center no-repeat;
+    color: white;
+}
+.header{
+    min-height: 90px;
+    padding: 35px 0;
+    font-size: 16px;
 }
 .header__container{
     max-width: 1920px;
     padding: 0 180px;
     margin: auto;
-    color: white;
 }
 .header__link{
     color: white;
+}
+.header__list{
+    padding-left: 47px;
+}
+.header__search{
+    padding-left: 70px;
 }
