@@ -1,0 +1,19 @@
+.hero{
+    min-height: 710px;
+}
+.hero__content{
+    max-width: 420px;
+}
+.hero__left{
+    height: 100%;
+    align-items: center;
+}
+.left__title{
+    font-size: 64px;
+}
+.left__suptitle{
+    font-size: 24px;
+}
+.peterburg{
+    font-size: 30px;
+}

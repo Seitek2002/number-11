@@ -4,8 +4,23 @@
 }
 .header{
     min-height: 90px;
-    padding: 35px 0;
+    padding: 30px 0;
     font-size: 16px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #A1A1A1;
+}
+.header__list::before{
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: 0.3s;
+    left: 20px;
+    top: 58px;
+}
+.header__list:hover::before{
+    width: 100%;
 }
 .header__container{
     max-width: 1920px;
@@ -17,6 +32,7 @@
 }
 .header__list{
     padding-left: 47px;
+    position: relative;
 }
 .header__search{
     padding-left: 70px;
