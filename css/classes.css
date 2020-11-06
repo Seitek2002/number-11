@@ -16,3 +16,15 @@
 .w-100{
     width: 100%;
 }
+.bg-red{
+    background: #F6404F;
+}
+.bg-blue{
+    background: #2378FC;
+}
+.bg-yellow{
+    background: #FFC41E;
+}
+.bg-green{
+    background: #30BCC9;
+}
