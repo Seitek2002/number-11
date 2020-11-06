@@ -1,0 +1,9 @@
+.hero__title{
+    font-size: 64px;
+    min-height: 250px;
+    display: flex;
+    align-items: flex-end;
+}
+.hero__bottom{
+    
+}
