@@ -1,0 +1,27 @@
+.events{
+    background: #FFC41E;
+}
+.events__upper{
+    justify-content: space-between;
+    padding: 75px 0 55px 0;
+}
+.events__sector{
+    justify-content: space-between;
+}
+.events__title{
+    font-size: 30px;
+}
+.events__all{
+    color: black;
+    color: 21px;
+}
+.events__arrow{
+    fill: black;
+    transition: 0.3s;
+}
+.events__all:hover{
+    text-decoration: underline;
+}
+.events__all:hover .events__arrow{
+    margin-left: 10px;
+}
