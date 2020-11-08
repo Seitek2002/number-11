@@ -1,9 +1,16 @@
 .news{
     background: #FAF3E3;
+    padding: 75px 0 85px 0;
 }
 .news__left{
     max-width: 445px;
 }
 .news__box{
     display: flex;
+}
+.news__elka{
+    margin-top: 60px;
+}
+.news__box{
+    max-width: 530px;
 }
