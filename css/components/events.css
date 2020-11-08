@@ -1,9 +1,9 @@
 .events{
     background: #FFC41E;
+    padding: 75px 0 55px 0;
 }
 .events__upper{
     justify-content: space-between;
-    padding: 75px 0 55px 0;
 }
 .events__sector{
     justify-content: space-between;
