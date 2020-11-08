@@ -1,3 +1,26 @@
 .footer{
     background: #2378FC;
+    color: white;
+    padding: 60px 0 70px 0;
+}
+.footer__title{
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+.footer__list{
+    margin-top: 10px;
+}
+.footer__content{
+    justify-content: space-between;
+}
+.footer__link{
+    color: #E0E0E0;
+    font-size: 14px;
+}
+.footer__link:hover{
+    color: #FFC41E;
+    text-decoration: underline;
+}
+.footer__ul{
+    max-width: 255px;
 }
