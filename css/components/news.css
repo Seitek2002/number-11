@@ -1,3 +1,9 @@
 .news{
-    
+    background: #FAF3E3;
+}
+.news__left{
+    max-width: 445px;
+}
+.news__box{
+    display: flex;
 }
