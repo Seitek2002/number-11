@@ -8,7 +8,7 @@
     margin-bottom: 30px;
 }
 .blue__content{
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .blue__list{
     margin-top: 15px;

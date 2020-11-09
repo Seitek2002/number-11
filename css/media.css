@@ -2,4 +2,11 @@
     .header__icons{
         display: none;
     }
+    .header{
+        min-height: auto;
+        padding: 0 0 25px 0;
+    }
+    .header__logo{
+        display: none;
+    }
 }
