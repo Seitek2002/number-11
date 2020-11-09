@@ -13,14 +13,6 @@
 .footer__content{
     justify-content: space-between;
 }
-.footer__left{
-    max-width: 550px;
-    justify-content: space-between;
-}
-.footer__right{
-    max-width: 550px;
-    justify-content: space-between;
-}
 .footer__link{
     color: #E0E0E0;
     font-size: 14px;
@@ -30,5 +22,9 @@
     text-decoration: underline;
 }
 .footer__ul{
-    max-width: 255px;
+    margin-top: 20px;
+    width: 255px;
+}
+.footer__icons{
+    margin-right: 30px;
 }
